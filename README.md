@@ -1,43 +1,88 @@
-<h1 align="center">Hi, I'm TY</h1>
+<h1 align="center">Tang Yi</h1>
 
 <p align="center">
-  <strong>Software Developer | Intelligent Systems Explorer</strong><br />
-  软件开发者｜智能系统探索者
+  <strong>Automation Engineering Undergraduate | Embedded AI Researcher</strong><br />
+  自动化专业本科生｜嵌入式人工智能研究者
 </p>
 
 <p align="center">
-  Building practical software for urban intelligence, drone operations, and desktop workflows.<br />
-  专注于城市智能、无人机运营与桌面应用的实用软件开发。
+  <img src="https://komarev.com/ghpvc/?username=TY477&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Research%20Goal-Q1%20Journal%20Paper-101010?style=flat" alt="Research goal: Q1 journal paper" />
 </p>
 
-## About Me / 关于我
+<p align="center">
+  Control Theory &middot; Embedded Systems &middot; Artificial Intelligence<br />
+  控制理论 &middot; 嵌入式系统 &middot; 人工智能
+</p>
 
-- Interested in low-altitude economy, intelligent drone coordination, and urban risk insight.
-- 关注低空经济、智能无人机协同与城市风险洞察。
-- Turning complex operational problems into usable software products.
-- 将复杂的业务问题转化为可用的软件产品。
+## Research Profile / 研究定位
 
-## Featured Projects / 精选项目
+I study how embedded intelligence and data-driven models can make complex engineering equipment more reliable, observable, and maintainable.
 
-| Project | Description |
+我关注如何将嵌入式智能与数据驱动模型应用于复杂工程装备，提升系统的可靠性、可观测性与可维护性。
+
+**Research focus / 研究主线**
+
+- Intelligent fault diagnosis for rolling bearings and industrial equipment / 轴承及工业装备智能故障诊断
+- Embedded AI and edge-side intelligent monitoring / 嵌入式 AI 与边缘端智能监测
+- Aerospace equipment health monitoring and prognostics / 航天装备健康监测与预测维护
+- Cross-condition transfer and robust data-driven diagnosis / 跨工况迁移与鲁棒数据驱动诊断
+
+## Research Directions / 研究方向
+
+### Intelligent Fault Diagnosis / 智能故障诊断
+
+Developing robust diagnosis workflows that combine signal processing, representation learning, and machine learning for rotating machinery.
+
+围绕旋转机械，融合信号处理、特征表征与机器学习，探索鲁棒的智能诊断流程。
+
+`CNN` `SVM` `Feature Extraction` `Domain Adaptation` `Signal Processing`
+
+### Aerospace Health Management / 航天装备健康管理
+
+Exploring multi-source sensing, fault-feature extraction, health assessment, and intelligent decision support for aerospace equipment.
+
+面向航天装备，探索多源传感、故障特征提取、健康状态评估与智能决策支持。
+
+### Embedded Intelligent Monitoring / 嵌入式智能监测
+
+Building real-time acquisition and edge-processing systems around STM32, sensors, and wireless communication modules.
+
+基于 STM32、传感器与无线通信模块，构建实时采集、边缘处理与智能监测系统。
+
+`STM32` `ARM Cortex-M` `MPU6050` `LoRa` `Embedded C`
+
+## Technical Stack / 技术栈
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,pytorch,tensorflow,arduino,raspberrypi,git,vscode" alt="Technical skills" />
+</p>
+
+| Area | Capabilities |
 | --- | --- |
-| [SkyBrain Drone Platform](https://github.com/TY477/skybrain-drone-platform) | Intelligent drone management platform for coordinated operations. / 面向协同运营的智能无人机管理平台。 |
-| [SkyBrain](https://github.com/TY477/SkyBrain-) | Drone-cluster scheduling and risk-avoidance system for the urban low-altitude economy. / 面向城市低空经济的无人机集群调度与风险规避系统。 |
-| [City Risk Insight Platform](https://github.com/TY477/city-risk-insight-platform) | Electron-based desktop application for city risk insight. / 基于 Electron 的城市风险洞察桌面应用。 |
-| [Five in a Row](https://github.com/TY477/five-in-a-row) | A Python implementation of the classic five-in-a-row game. / Python 实现的五子棋项目。 |
+| Embedded Systems / 嵌入式系统 | STM32 MCU development, ARM Cortex-M, STM32CubeMX, HAL, sensor interface design |
+| Intelligent Diagnosis / 智能诊断 | Deep learning, CNN, machine learning, fault diagnosis, data-driven modeling |
+| Engineering Tools / 工程工具 | MATLAB/Simulink, Keil MDK, Altium Designer, Proteus, Git |
 
-## Tech Stack / 技术栈
+## Academic Goal / 学术目标
+
+> To develop practical, reliable AI methods for intelligent diagnosis and publish high-quality research in a Q1 journal.
+>
+> 面向智能诊断开发可落地、可信赖的 AI 方法，并以发表一区期刊论文为阶段性目标。
+
+Current learning priorities / 当前学习重点：
+
+- Advanced deep learning and domain adaptation / 深度学习与领域自适应
+- Edge AI deployment and embedded Linux / 边缘 AI 部署与嵌入式 Linux
+- Intelligent control and aerospace fault diagnosis / 智能控制与航天装备故障诊断
+
+## GitHub Activity / GitHub 数据
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TY477&show_icons=true&hide_border=true&theme=transparent" alt="Tang Yi's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TY477&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Tang Yi's top languages" />
 </p>
 
-## GitHub Stats / GitHub 数据
-
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TY477&show_icons=true&hide_border=true&locale=en" alt="TY's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TY477&layout=compact&hide_border=true&langs_count=6" alt="TY's top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TY477&theme=transparent&hide_border=true" alt="Tang Yi's contribution streak" />
 </p>
